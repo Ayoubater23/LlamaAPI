@@ -12,6 +12,7 @@ The Llama API provides a powerful interface for leveraging advanced AI language 
 Prerequisites
 Windows Subsystem for Linux (WSL) installed on your Windows machine.
 A terminal or command prompt to execute commands.
+
 Step 1: Install Ollama on WSL
 
 Open your WSL terminal.
